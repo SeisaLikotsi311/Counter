@@ -1,5 +1,5 @@
-<COUNTER/>
-<Description/>
+<COUNTER\>
+<Description\>
 This is a simple JavaScript-based people counter application. It can be used for counting people entering or exiting a location, such as a train station, or for any other counting purposes. The application provides buttons to increment, decrement, and save the count.
 
 <Features/>
